@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\bin\Debug\net6.0\task-consoleapp-phone.exe
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\bin\Debug\net6.0\task-consoleapp-phone.deps.json
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\bin\Debug\net6.0\task-consoleapp-phone.runtimeconfig.json
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\bin\Debug\net6.0\task-consoleapp-phone.dll
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\bin\Debug\net6.0\task-consoleapp-phone.pdb
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\task-consoleapp-phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\task-consoleapp-phone.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\task-consoleapp-phone.AssemblyInfo.cs
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\task-consoleapp-phone.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\task-consoleapp-phone.dll
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\refint\task-consoleapp-phone.dll
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\task-consoleapp-phone.pdb
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\task-consoleapp-phone.genruntimeconfig.cache
+C:\Users\Asus\source\repos\task-consoleapp-phone\task-consoleapp-phone\obj\Debug\net6.0\ref\task-consoleapp-phone.dll
