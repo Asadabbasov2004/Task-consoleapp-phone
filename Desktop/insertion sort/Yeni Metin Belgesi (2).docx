@@ -1,0 +1,6 @@
+Insertion sort-Əlavə etməklə nizamlama
+    ----Ümumi məlumat 
+İkinci elementdən başlayaraq özündən əvvəlki elementlərlə  özünü qarşılaşdıraraq , böyük elementi sırada sağa doğru yerləşməsi prinsipinə əsaslanır.Bu sortlama (siralama) məntiqinə əsasən ilk olaraq sıradakı ikinci element götürülür və solundakılarla (özündən əvvəlki ) elementlərlə müqayisə edilir , əgər soldakı  böyük olsa yerləri dəyişir əks halda öz yerində saxlayır
+Siralama zamanı soldakı bir və daha artiq saydakı elementlə müqayisə aparilir, bu xassəsi onu Buble Sortdan üstün edir . Həttda soldakı element ondan kiçik olsada bırbaşa onla deyil ondan əvvəldəkilərlə nəzər yetirirək tam düz mövqeyini tapır və artıq prosseslərdən azad olur .
+
+----------Nümünə
